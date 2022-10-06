@@ -1,7 +1,7 @@
 package com.edpub.javanotes;
 
 class Main {
-    public static void main(String args[]){
+    public static void main(){
         System.out.println("Hello World");
     }
 
@@ -31,5 +31,28 @@ class Main {
         short f = 10;
         long g = 100;
         String a = "Hello" ;
+
+        //QUES: What is diff between int and Integer
     }
 };//Semicolon at end of class is optional in java
+
+// More about Java
+// Acquired by Oracle
+
+
+// Features of Java
+// Garbage Collection //not in cpp and c
+// Multi-threading
+// Object-Oriented
+// Strong type-checking
+// Compile and interpret
+// Robust //great exception handling
+// Secure
+// Platform independent
+// Java doest not have pointers
+
+//Execution
+//Java program -> Java Compiler -> Bytecode -> windows/linux/macos
+
+//Anatomy
+//JDK[JRE[JVM, Class, Libraries, Other Libs]]
